@@ -1,5 +1,7 @@
 'use strict';
 
+var someChange = "aaa";
+
 // 导入http模块:
 var http = require('http');
 
