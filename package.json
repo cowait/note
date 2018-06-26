@@ -1,0 +1,19 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "description": "note or get some key",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cowait/note.git"
+  },
+  "author": "codewait",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cowait/note/issues"
+  },
+  "homepage": "https://github.com/cowait/note#readme"
+}
