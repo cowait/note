@@ -1,4 +1,4 @@
-# node something
+# note something
 
 ## 概述
 就像旅行，希望走过的地方都勾起思绪，留下足迹...
