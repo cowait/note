@@ -4,9 +4,9 @@
 就像旅行，希望走过的地方都勾起思绪，留下足迹...
 ## 此页面持续更新, 20180626-update
 ## 目录(中国)
-- [1.node + npm](###1.node + npm)
-- [2.tools](###2.tools)
-- [3.gis](###3.gis)
+- [1.node](#1node + npm)
+- [2.tools](#2tools)
+- [3.gis](#3gis)
 
 
 ### 1.node + npm
