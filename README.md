@@ -4,12 +4,12 @@
 就像旅行，希望走过的地方都勾起思绪，留下足迹...
 ## 此页面持续更新, 20180626-update
 ## 目录(中国)
-- [1.node](#1node + npm)
+- [1.nodenpm](#1nodenpm)
 - [2.tools](#2tools)
 - [3.gis](#3gis)
 
 
-### 1.node + npm
+### 1.nodenpm
 #### 1.1 npm 常用命令
     npm init  在项目中引导创建一个package.json文件，包括名称、版本、作者这些信息等
     npm start 启动模块
