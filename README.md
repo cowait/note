@@ -4,7 +4,8 @@
 就像旅行，希望走过的地方都勾起思绪，留下足迹...
 ## 此页面持续更新, 20180626-update
 ## 目录(中国)
-- [node + npm](#1node + npm)
+- [1.node + npm](#1.node + npm)
+- [2.tools](#2.tools)
 
 
 ### 1.node + npm
@@ -20,3 +21,10 @@
     npm更新全部插件：npm update [--save-dev] 
     npm帮助：npm help 
     npm查看当前目录已安装插件：npm list
+
+### 2.tools
+#### 2.1 anywhere
+    可将本地静态资源文件夹起一个服务
+    npm install anywhere -g
+    cd D://static
+    anywhere port
