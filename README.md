@@ -24,7 +24,7 @@
     npm查看当前目录已安装插件：npm list
 
 ### 2.tools
-#### 2.1 anywhere
+#### 2.1 anywhere 
     可将本地静态资源文件夹起一个服务
     npm install anywhere -g
     cd D://static
